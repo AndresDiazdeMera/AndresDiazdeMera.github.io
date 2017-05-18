@@ -1,0 +1,40 @@
+body{
+	background-image: url("../Imagenes/Fondo2_1.jpg");
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#Letras{
+	position: fixed;
+	top: 50%;
+	left:50%;
+	transform: translate(-50%,-50%);
+	overflow: hidden;
+	opacity:0;
+	transition: 1s all ease;
+}
+
+
+#Trivial{
+	position: fixed;
+	top: 50%;
+	left:50%;
+	transform: translate(-50%,-50%);
+}
+
+
+#Trivialmap:hover + #Letras{
+	opacity:1;
+}
+
+.container{
+	position: fixed;
+	top:95%;
+	left: 95%;
+}
+
+
+
+
+
