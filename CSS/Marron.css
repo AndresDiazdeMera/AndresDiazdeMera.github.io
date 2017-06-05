@@ -4,3 +4,26 @@ body{
 	background-repeat: no-repeat;
 	background-size: cover;
 }
+
+#Titulo{
+	text-align: center;
+	font-family: 'Press Start 2P', cursive;
+	font-size: 50px;
+	color: #986B17;
+	text-decoration: underline;
+	
+}
+
+.marron{
+	background-color: rgba(152, 107, 23, 0.5);
+	border-radius: 50px;
+	margin: 2cm 5cm;
+	text-align: center;
+}
+
+#icono{
+	text-align: center;
+	background-color: rgba(152, 107, 23, 0.5);
+	border-radius: 25px;
+	margin: 6cm 9cm;
+}

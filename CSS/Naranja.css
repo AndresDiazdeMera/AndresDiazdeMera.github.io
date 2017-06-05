@@ -4,3 +4,32 @@ body{
 	background-repeat: no-repeat;
 	background-size: cover;
 }
+
+#Titulo{
+	text-align: center;
+	font-family: 'Press Start 2P', cursive;
+	font-size: 50px;
+	color: #F7C637;
+	text-decoration: underline;
+	
+}
+
+.Videos{
+	display: block;
+	margin: 0 auto;
+	padding: 2cm;
+	
+}
+
+.naranja{
+	background-color: rgba(247, 198, 55, 0.5);
+	border-radius: 50px;
+	margin: 2cm 5cm;
+}
+
+#icono{
+	text-align: center;
+	background-color: rgba(247, 198, 55, 0.5);
+	border-radius: 25px;
+	margin: 6cm 9cm;
+}

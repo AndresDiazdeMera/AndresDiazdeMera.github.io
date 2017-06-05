@@ -1,6 +1,34 @@
-body{
+﻿body{
 	background-image: url("../Imagenes/FondoAzul.jpg");
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 	background-size: cover;
+}
+
+.Videos{
+	display: block;
+	margin: 0 auto;
+	padding: 2cm;
+	
+}
+
+.azul{
+	background-color: rgba(107, 174, 205, 0.5);
+	border-radius: 50px;
+	margin: 2cm 5cm;
+}
+
+#Titulo{
+	text-align: center;
+	font-family: 'Press Start 2P', cursive;
+	font-size: 50px;
+	color: #6BAECD;
+	text-decoration: underline;
+}
+
+#icono{
+	text-align: center;
+	background-color: rgba(107, 174, 205, 0.5);
+	border-radius: 25px;
+	margin: 6cm 9cm;
 }

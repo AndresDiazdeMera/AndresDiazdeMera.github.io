@@ -4,3 +4,29 @@ body{
 	background-repeat: no-repeat;
 	background-size: cover;
 }
+
+#Titulo{
+	text-align: center;
+	font-family: 'Press Start 2P', cursive;
+	font-size: 50px;
+	color: #F786FC;
+	text-decoration: underline;
+	
+}
+
+#Correo{
+	font-family: 'Mogra', cursive;
+	background-color: rgba(247, 134, 252, 0.5);
+	border-radius: 25px;
+	padding: 25px;
+	margin: 6cm 9cm;
+	font-size: 30px;
+	text-align: center;
+}
+
+#icono{
+	text-align: center;
+	background-color: rgba(247, 134, 252, 0.5);
+	border-radius: 25px;
+	margin: 6cm 9cm;
+}
